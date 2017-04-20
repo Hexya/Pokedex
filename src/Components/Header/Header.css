@@ -1,0 +1,8 @@
+.header {
+  height: 70vh;
+  width: 100%;
+  background-image: url("../Body/img/Head1.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white; }

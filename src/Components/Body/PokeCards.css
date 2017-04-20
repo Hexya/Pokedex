@@ -1,0 +1,53 @@
+a {
+  text-decoration: none; }
+
+.contCards:hover {
+  margin-top: 20px;
+  display: flex;
+  align-items: center; }
+
+.contCards {
+  position: relative;
+  overflow: hidden;
+  height: 280px;
+  width: 200px;
+  background-image: url("https://ih1.redbubble.net/image.175151347.1182/flat,800x800,075,t.u2.jpg");
+  background-position: top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 3px solid #EC2C33; }
+
+.contCards .numberPok {
+  font-size: 0.8em;
+  margin: 5px 75% 0 0;
+  color: rgba(255, 255, 255, 0.9); }
+
+.contCards .contImg {
+  height: 170px;
+  width: 170px; }
+
+.contCards .pokeImg {
+  width: 100%;
+  height: auto; }
+
+.contCards .pokeInf {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  font-family: 'Open Sans Condensed', sans-serif; }
+
+.contCards .pokeInf .namePok {
+  font-size: 1.7em;
+  color: #373737;
+  text-shadow: 1px 1px 1px black;
+  padding-bottom: 5px; }
+
+.contCards .pokeInf .typePok {
+  text-shadow: 1px 1px 1px grey;
+  color: #4b4b4b; }

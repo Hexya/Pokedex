@@ -1,0 +1,55 @@
+a {text-decoration: none;}
+.contCards:hover {
+  margin-top:20px;
+  display: flex;
+  align-items:center;
+}
+.contCards {
+  position: relative;
+  overflow: hidden;
+  height: 280px;
+  width: 200px;
+  background-image: url("https://ih1.redbubble.net/image.175151347.1182/flat,800x800,075,t.u2.jpg");
+  background-position: top;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 3px solid #EC2C33;
+  //  image-rendering: pixelated;
+  //  -webkit-filter: sepia(100%); /* Safari 6.0 - 9.0 */
+  // filter: sepia(100%);
+  .numberPok {
+    font-size: 0.8em;
+    margin:5px 75% 0 0;
+    color: rgba(255,255,255,0.9);
+  }
+  .contImg {
+    height: 170px;
+    width: 170px;
+  }
+  .pokeImg {
+    width: 100%;
+    height: auto;
+  }
+  .pokeInf {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    .namePok {
+      font-size: 1.7em;
+      color: rgb(55, 55, 55);
+      text-shadow: 1px 1px 1px black;
+      padding-bottom: 5px;
+    }
+    .typePok {
+      text-shadow: 1px 1px 1px grey;
+      color: rgb(75, 75, 75);
+    }
+  }
+}

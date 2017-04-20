@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald|Roboto|Roboto+Condensed");
+/*a
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+a*/
+.containGrid {
+  display: flex;
+  justify-content: center;
+  color: #e3e3e3;
+  background-color: #ececec;
+  font-family: 'Roboto Condensed', sans-serif; }
+  .containGrid .gridCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 70%;
+    background-color: white; }
