@@ -7,21 +7,10 @@ class App extends Component {
   constructor(){
     super();
     this.state={
-      className : "img1",
-      classNames : "App"
+      className : "App"
     };
   }
-  changeImg(element) {
-    if((this.state.className === 'img1')) {
-      this.setState({
-        classNames : 'img2'
-      });
-    } else {
-      this.setState({
-        classNames : 'img1'
-      });
-    }
-  }
+
   change(element) {
     if((this.state.className === 'App')) {
       this.setState({
@@ -41,8 +30,7 @@ class App extends Component {
   render() {
     return (
       <div className={this.state.className}>
-        <button onClick={this.change.bind(this)} className="btnTheme">Click Bitch</button>
-        {/* <button onClick={this.changeImg.bind(this)} className="btnTheme">Click Bitch</button> */}
+        <button onClick={this.change.bind(this)} className="btnTheme">Theme Switch</button>
         <Header />
         <Body />
       </div>

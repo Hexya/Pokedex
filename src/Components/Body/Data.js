@@ -299,6 +299,7 @@ var imgPokemon ={
       "num": "009",
       "name": "Blastoise",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/9.png",
       "type": [
         "Water"
       ],
@@ -330,6 +331,7 @@ var imgPokemon ={
       "num": "010",
       "name": "Caterpie",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/10.png",
       "type": [
         "Bug"
       ],
@@ -365,6 +367,7 @@ var imgPokemon ={
       "num": "011",
       "name": "Metapod",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/11.png",
       "type": [
         "Bug"
       ],
@@ -403,6 +406,7 @@ var imgPokemon ={
       "num": "012",
       "name": "Butterfree",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/12.png",
       "type": [
         "Bug",
         "Flying"
@@ -438,6 +442,7 @@ var imgPokemon ={
       "num": "013",
       "name": "Weedle",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/13.png",
       "type": [
         "Bug",
         "Poison"
@@ -476,6 +481,7 @@ var imgPokemon ={
       "num": "014",
       "name": "Kakuna",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/14.png",
       "type": [
         "Bug",
         "Poison"
@@ -516,6 +522,7 @@ var imgPokemon ={
       "num": "015",
       "name": "Beedrill",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/15.png",
       "type": [
         "Bug",
         "Poison"
@@ -550,6 +557,7 @@ var imgPokemon ={
       "num": "016",
       "name": "Pidgey",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/16.png",
       "type": [
         "Normal",
         "Flying"
@@ -586,6 +594,7 @@ var imgPokemon ={
       "num": "017",
       "name": "Pidgeotto",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/17.png",
       "type": [
         "Normal",
         "Flying"
@@ -623,6 +632,7 @@ var imgPokemon ={
       "num": "018",
       "name": "Pidgeot",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/18.png",
       "type": [
         "Normal",
         "Flying"
@@ -655,6 +665,7 @@ var imgPokemon ={
       "num": "019",
       "name": "Rattata",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/19.png",
       "type": [
         "Normal"
       ],
@@ -685,6 +696,7 @@ var imgPokemon ={
       "num": "020",
       "name": "Raticate",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/20.png",
       "type": [
         "Normal"
       ],
@@ -711,6 +723,7 @@ var imgPokemon ={
       "num": "021",
       "name": "Spearow",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/21.png",
       "type": [
         "Normal",
         "Flying"
@@ -743,6 +756,7 @@ var imgPokemon ={
       "num": "022",
       "name": "Fearow",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/22.png",
       "type": [
         "Normal",
         "Flying"
@@ -771,6 +785,7 @@ var imgPokemon ={
       "num": "023",
       "name": "Ekans",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/23.png",
       "type": [
         "Poison"
       ],
@@ -802,6 +817,7 @@ var imgPokemon ={
       "num": "024",
       "name": "Arbok",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/24.png",
       "type": [
         "Poison"
       ],
@@ -829,6 +845,7 @@ var imgPokemon ={
       "num": "025",
       "name": "Pikachu",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/25.png",
       "type": [
         "Electric"
       ],
@@ -858,6 +875,7 @@ var imgPokemon ={
       "num": "026",
       "name": "Raichu",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/26.png",
       "type": [
         "Electric"
       ],
@@ -884,6 +902,7 @@ var imgPokemon ={
       "num": "027",
       "name": "Sandshrew",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/27.png",
       "type": [
         "Ground"
       ],
@@ -915,6 +934,7 @@ var imgPokemon ={
       "num": "028",
       "name": "Sandslash",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/28.png",
       "type": [
         "Ground"
       ],
@@ -943,6 +963,7 @@ var imgPokemon ={
       "num": "029",
       "name": "Nidoran ♀ (Female)",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/29.png",
       "type": [
         "Poison"
       ],
@@ -978,6 +999,7 @@ var imgPokemon ={
       "num": "030",
       "name": "Nidorina",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/30.png",
       "type": [
         "Poison"
       ],
@@ -1015,6 +1037,7 @@ var imgPokemon ={
       "num": "031",
       "name": "Nidoqueen",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/31.png",
       "type": [
         "Poison",
         "Ground"
@@ -1049,6 +1072,7 @@ var imgPokemon ={
       "num": "032",
       "name": "Nidoran ♂ (Male)",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/32.png",
       "type": [
         "Poison"
       ],
@@ -1084,6 +1108,7 @@ var imgPokemon ={
       "num": "033",
       "name": "Nidorino",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/33.png",
       "type": [
         "Poison"
       ],
@@ -1120,6 +1145,7 @@ var imgPokemon ={
       "num": "034",
       "name": "Nidoking",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/34.png",
       "type": [
         "Poison",
         "Ground"
@@ -1154,6 +1180,7 @@ var imgPokemon ={
       "num": "035",
       "name": "Clefairy",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/35.png",
       "type": [
         "Normal"
       ],
@@ -1184,6 +1211,7 @@ var imgPokemon ={
       "num": "036",
       "name": "Clefable",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/36.png",
       "type": [
         "Normal"
       ],
@@ -1210,6 +1238,7 @@ var imgPokemon ={
       "num": "037",
       "name": "Vulpix",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/37.png",
       "type": [
         "Fire"
       ],
@@ -1242,6 +1271,7 @@ var imgPokemon ={
       "num": "038",
       "name": "Ninetales",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/38.png",
       "type": [
         "Fire"
       ],
@@ -1270,6 +1300,7 @@ var imgPokemon ={
       "num": "039",
       "name": "Jigglypuff",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/39.png",
       "type": [
         "Normal"
       ],
@@ -1299,6 +1330,7 @@ var imgPokemon ={
       "num": "040",
       "name": "Wigglytuff",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/40.png",
       "type": [
         "Normal"
       ],
@@ -1325,6 +1357,7 @@ var imgPokemon ={
       "num": "041",
       "name": "Zubat",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/41.png",
       "type": [
         "Poison",
         "Flying"
@@ -1359,6 +1392,7 @@ var imgPokemon ={
       "num": "042",
       "name": "Golbat",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/42.png",
       "type": [
         "Poison",
         "Flying"
@@ -1389,6 +1423,7 @@ var imgPokemon ={
       "num": "043",
       "name": "Oddish",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/43.png",
       "type": [
         "Grass",
         "Poison"
@@ -1426,6 +1461,7 @@ var imgPokemon ={
       "num": "044",
       "name": "Gloom",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/44.png",
       "type": [
         "Grass",
         "Poison"
@@ -1465,6 +1501,7 @@ var imgPokemon ={
       "num": "045",
       "name": "Vileplume",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/45.png",
       "type": [
         "Grass",
         "Poison"
@@ -1499,6 +1536,7 @@ var imgPokemon ={
       "num": "046",
       "name": "Paras",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/46.png",
       "type": [
         "Bug",
         "Grass"
@@ -1534,6 +1572,7 @@ var imgPokemon ={
       "num": "047",
       "name": "Parasect",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/47.png",
       "type": [
         "Bug",
         "Grass"
@@ -1566,6 +1605,7 @@ var imgPokemon ={
       "num": "048",
       "name": "Venonat",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/48.png",
       "type": [
         "Bug",
         "Poison"
@@ -1600,6 +1640,7 @@ var imgPokemon ={
       "num": "049",
       "name": "Venomoth",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/49.png",
       "type": [
         "Bug",
         "Poison"
@@ -1630,6 +1671,7 @@ var imgPokemon ={
       "num": "050",
       "name": "Diglett",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/50.png",
       "type": [
         "Ground"
       ],
@@ -1661,6 +1703,7 @@ var imgPokemon ={
       "num": "051",
       "name": "Dugtrio",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/51.png",
       "type": [
         "Ground"
       ],
@@ -1689,6 +1732,7 @@ var imgPokemon ={
       "num": "052",
       "name": "Meowth",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/52.png",
       "type": [
         "Normal"
       ],
@@ -1718,6 +1762,7 @@ var imgPokemon ={
       "num": "053",
       "name": "Persian",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/53.png",
       "type": [
         "Normal"
       ],
@@ -1744,6 +1789,7 @@ var imgPokemon ={
       "num": "054",
       "name": "Psyduck",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/54.png",
       "type": [
         "Water"
       ],
@@ -1774,6 +1820,7 @@ var imgPokemon ={
       "num": "055",
       "name": "Golduck",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/55.png",
       "type": [
         "Water"
       ],
@@ -1801,6 +1848,7 @@ var imgPokemon ={
       "num": "056",
       "name": "Mankey",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/56.png",
       "type": [
         "Fighting"
       ],
@@ -1833,6 +1881,7 @@ var imgPokemon ={
       "num": "057",
       "name": "Primeape",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/57.png",
       "type": [
         "Fighting"
       ],
@@ -1861,6 +1910,7 @@ var imgPokemon ={
       "num": "058",
       "name": "Growlithe",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/58.png",
       "type": [
         "Fire"
       ],
@@ -1893,6 +1943,7 @@ var imgPokemon ={
       "num": "059",
       "name": "Arcanine",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/59.png",
       "type": [
         "Fire"
       ],
@@ -1921,6 +1972,7 @@ var imgPokemon ={
       "num": "060",
       "name": "Poliwag",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/60.png",
       "type": [
         "Water"
       ],
@@ -1956,6 +2008,7 @@ var imgPokemon ={
       "num": "061",
       "name": "Poliwhirl",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/61.png",
       "type": [
         "Water"
       ],
@@ -1992,6 +2045,7 @@ var imgPokemon ={
       "num": "062",
       "name": "Poliwrath",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/62.png",
       "type": [
         "Water",
         "Fighting"
@@ -2027,6 +2081,7 @@ var imgPokemon ={
       "num": "063",
       "name": "Abra",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/63.png",
       "type": [
         "Psychic"
       ],
@@ -2063,6 +2118,7 @@ var imgPokemon ={
       "num": "064",
       "name": "Kadabra",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/64.png",
       "type": [
         "Psychic"
       ],
@@ -2100,6 +2156,7 @@ var imgPokemon ={
       "num": "065",
       "name": "Alakazam",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/65.png",
       "type": [
         "Psychic"
       ],
@@ -2132,6 +2189,7 @@ var imgPokemon ={
       "num": "066",
       "name": "Machop",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/66.png",
       "type": [
         "Fighting"
       ],
@@ -2168,6 +2226,7 @@ var imgPokemon ={
       "num": "067",
       "name": "Machoke",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/67.png",
       "type": [
         "Fighting"
       ],
@@ -2205,6 +2264,7 @@ var imgPokemon ={
       "num": "068",
       "name": "Machamp",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/68.png",
       "type": [
         "Fighting"
       ],
@@ -2237,6 +2297,7 @@ var imgPokemon ={
       "num": "069",
       "name": "Bellsprout",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/69.png",
       "type": [
         "Grass",
         "Poison"
@@ -2274,6 +2335,7 @@ var imgPokemon ={
       "num": "070",
       "name": "Weepinbell",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/70.png",
       "type": [
         "Grass",
         "Poison"
@@ -2313,6 +2375,7 @@ var imgPokemon ={
       "num": "071",
       "name": "Victreebel",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/71.png",
       "type": [
         "Grass",
         "Poison"
@@ -2347,6 +2410,7 @@ var imgPokemon ={
       "num": "072",
       "name": "Tentacool",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/72.png",
       "type": [
         "Water",
         "Poison"
@@ -2379,6 +2443,7 @@ var imgPokemon ={
       "num": "073",
       "name": "Tentacruel",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/73.png",
       "type": [
         "Water",
         "Poison"
@@ -2408,6 +2473,7 @@ var imgPokemon ={
       "num": "074",
       "name": "Geodude",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/74.png",
       "type": [
         "Rock",
         "Ground"
@@ -2448,6 +2514,7 @@ var imgPokemon ={
       "num": "075",
       "name": "Graveler",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/75.png",
       "type": [
         "Rock",
         "Ground"
@@ -2490,6 +2557,7 @@ var imgPokemon ={
       "num": "076",
       "name": "Golem",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/76.png",
       "type": [
         "Rock",
         "Ground"
@@ -2526,6 +2594,7 @@ var imgPokemon ={
       "num": "077",
       "name": "Ponyta",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/77.png",
       "type": [
         "Fire"
       ],
@@ -2558,6 +2627,7 @@ var imgPokemon ={
       "num": "078",
       "name": "Rapidash",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/78.png",
       "type": [
         "Fire"
       ],
@@ -2586,6 +2656,7 @@ var imgPokemon ={
       "num": "079",
       "name": "Slowpoke",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/79.png",
       "type": [
         "Water",
         "Psychic"
@@ -2620,6 +2691,7 @@ var imgPokemon ={
       "num": "080",
       "name": "Slowbro",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/80.png",
       "type": [
         "Water",
         "Psychic"
@@ -2651,6 +2723,7 @@ var imgPokemon ={
       "num": "081",
       "name": "Magnemite",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/81.png",
       "type": [
         "Electric"
       ],
@@ -2683,6 +2756,7 @@ var imgPokemon ={
       "num": "082",
       "name": "Magneton",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/82.png",
       "type": [
         "Electric"
       ],
@@ -2711,6 +2785,7 @@ var imgPokemon ={
       "num": "083",
       "name": "Farfetch'd",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/83.png",
       "type": [
         "Normal",
         "Flying"
@@ -2733,6 +2808,7 @@ var imgPokemon ={
       "num": "084",
       "name": "Doduo",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/84.png",
       "type": [
         "Normal",
         "Flying"
@@ -2765,6 +2841,7 @@ var imgPokemon ={
       "num": "085",
       "name": "Dodrio",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/85.png",
       "type": [
         "Normal",
         "Flying"
@@ -2793,6 +2870,7 @@ var imgPokemon ={
       "num": "086",
       "name": "Seel",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/86.png",
       "type": [
         "Water"
       ],
@@ -2824,6 +2902,7 @@ var imgPokemon ={
       "num": "087",
       "name": "Dewgong",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/87.png",
       "type": [
         "Water",
         "Ice"
@@ -2854,6 +2933,7 @@ var imgPokemon ={
       "num": "088",
       "name": "Grimer",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/88.png",
       "type": [
         "Poison"
       ],
@@ -2884,6 +2964,7 @@ var imgPokemon ={
       "num": "089",
       "name": "Muk",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/89.png",
       "type": [
         "Poison"
       ],
@@ -2911,6 +2992,7 @@ var imgPokemon ={
       "num": "090",
       "name": "Shellder",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/90.png",
       "type": [
         "Water"
       ],
@@ -2941,6 +3023,7 @@ var imgPokemon ={
       "num": "091",
       "name": "Cloyster",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/91.png",
       "type": [
         "Water",
         "Ice"
@@ -2971,6 +3054,7 @@ var imgPokemon ={
       "num": "092",
       "name": "Gastly",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/92.png",
       "type": [
         "Ghost",
         "Poison"
@@ -3008,6 +3092,7 @@ var imgPokemon ={
       "num": "093",
       "name": "Haunter",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/93.png",
       "type": [
         "Ghost",
         "Poison"
@@ -3048,6 +3133,7 @@ var imgPokemon ={
       "num": "094",
       "name": "Gengar",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/94.png",
       "type": [
         "Ghost",
         "Poison"
@@ -3082,6 +3168,7 @@ var imgPokemon ={
       "num": "095",
       "name": "Onix",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/95.png",
       "type": [
         "Rock",
         "Ground"
@@ -3108,6 +3195,7 @@ var imgPokemon ={
       "num": "096",
       "name": "Drowzee",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/96.png",
       "type": [
         "Psychic"
       ],
@@ -3140,6 +3228,7 @@ var imgPokemon ={
       "num": "097",
       "name": "Hypno",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/97.png",
       "type": [
         "Psychic"
       ],
@@ -3168,6 +3257,7 @@ var imgPokemon ={
       "num": "098",
       "name": "Krabby",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/98.png",
       "type": [
         "Water"
       ],
@@ -3199,6 +3289,7 @@ var imgPokemon ={
       "num": "099",
       "name": "Kingler",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/99.png",
       "type": [
         "Water"
       ],
@@ -3226,6 +3317,7 @@ var imgPokemon ={
       "num": "100",
       "name": "Voltorb",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/100.png",
       "type": [
         "Electric"
       ],
@@ -3256,6 +3348,7 @@ var imgPokemon ={
       "num": "101",
       "name": "Electrode",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/101.png",
       "type": [
         "Electric"
       ],
@@ -3282,6 +3375,7 @@ var imgPokemon ={
       "num": "102",
       "name": "Exeggcute",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/102.png",
       "type": [
         "Grass",
         "Psychic"
@@ -3319,6 +3413,7 @@ var imgPokemon ={
       "num": "103",
       "name": "Exeggutor",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/103.png",
       "type": [
         "Grass",
         "Psychic"
@@ -3352,6 +3447,7 @@ var imgPokemon ={
       "num": "104",
       "name": "Cubone",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/104.png",
       "type": [
         "Ground"
       ],
@@ -3383,6 +3479,7 @@ var imgPokemon ={
       "num": "105",
       "name": "Marowak",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/105.png",
       "type": [
         "Ground"
       ],
@@ -3411,6 +3508,7 @@ var imgPokemon ={
       "num": "106",
       "name": "Hitmonlee",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/106.png",
       "type": [
         "Fighting"
       ],
@@ -3433,6 +3531,7 @@ var imgPokemon ={
       "num": "107",
       "name": "Hitmonchan",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/107.png",
       "type": [
         "Fighting"
       ],
@@ -3455,6 +3554,7 @@ var imgPokemon ={
       "num": "108",
       "name": "Lickitung",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/108.png",
       "type": [
         "Normal"
       ],
@@ -3475,6 +3575,7 @@ var imgPokemon ={
       "num": "109",
       "name": "Koffing",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/109.png",
       "type": [
         "Poison"
       ],
@@ -3505,6 +3606,7 @@ var imgPokemon ={
       "num": "110",
       "name": "Weezing",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/110.png",
       "type": [
         "Poison"
       ],
@@ -3532,6 +3634,7 @@ var imgPokemon ={
       "num": "111",
       "name": "Rhyhorn",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/111.png",
       "type": [
         "Ground",
         "Rock"
@@ -3567,6 +3670,7 @@ var imgPokemon ={
       "num": "112",
       "name": "Rhydon",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/112.png",
       "type": [
         "Ground",
         "Rock"
@@ -3599,6 +3703,7 @@ var imgPokemon ={
       "num": "113",
       "name": "Chansey",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/113.png",
       "type": [
         "Normal"
       ],
@@ -3619,6 +3724,7 @@ var imgPokemon ={
       "num": "114",
       "name": "Tangela",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/114.png",
       "type": [
         "Grass"
       ],
@@ -3643,6 +3749,7 @@ var imgPokemon ={
       "num": "115",
       "name": "Kangaskhan",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/115.png",
       "type": [
         "Normal"
       ],
@@ -3663,6 +3770,7 @@ var imgPokemon ={
       "num": "116",
       "name": "Horsea",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/116.png",
       "type": [
         "Water"
       ],
@@ -3693,6 +3801,7 @@ var imgPokemon ={
       "num": "117",
       "name": "Seadra",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/117.png",
       "type": [
         "Water"
       ],
@@ -3720,6 +3829,7 @@ var imgPokemon ={
       "num": "118",
       "name": "Goldeen",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/118.png",
       "type": [
         "Water"
       ],
@@ -3751,6 +3861,7 @@ var imgPokemon ={
       "num": "119",
       "name": "Seaking",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/119.png",
       "type": [
         "Water"
       ],
@@ -3778,6 +3889,7 @@ var imgPokemon ={
       "num": "120",
       "name": "Staryu",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/120.png",
       "type": [
         "Water"
       ],
@@ -3809,6 +3921,7 @@ var imgPokemon ={
       "num": "121",
       "name": "Starmie",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/121.png",
       "type": [
         "Water",
         "Psychic"
@@ -3840,6 +3953,7 @@ var imgPokemon ={
       "num": "122",
       "name": "Mr. Mime",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/122.png",
       "type": [
         "Psychic"
       ],
@@ -3862,6 +3976,7 @@ var imgPokemon ={
       "num": "123",
       "name": "Scyther",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/123.png",
       "type": [
         "Bug",
         "Flying"
@@ -3887,6 +4002,7 @@ var imgPokemon ={
       "num": "124",
       "name": "Jynx",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/124.png",
       "type": [
         "Ice",
         "Psychic"
@@ -3913,6 +4029,7 @@ var imgPokemon ={
       "num": "125",
       "name": "Electabuzz",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/125.png",
       "type": [
         "Electric"
       ],
@@ -3933,6 +4050,7 @@ var imgPokemon ={
       "num": "126",
       "name": "Magmar",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/126.png",
       "type": [
         "Fire"
       ],
@@ -3955,6 +4073,7 @@ var imgPokemon ={
       "num": "127",
       "name": "Pinsir",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/127.png",
       "type": [
         "Bug"
       ],
@@ -3977,6 +4096,7 @@ var imgPokemon ={
       "num": "128",
       "name": "Tauros",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/128.png",
       "type": [
         "Normal"
       ],
@@ -3997,6 +4117,7 @@ var imgPokemon ={
       "num": "129",
       "name": "Magikarp",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/129.png",
       "type": [
         "Water"
       ],
@@ -4028,6 +4149,7 @@ var imgPokemon ={
       "num": "130",
       "name": "Gyarados",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/130.png",
       "type": [
         "Water",
         "Flying"
@@ -4056,6 +4178,7 @@ var imgPokemon ={
       "num": "131",
       "name": "Lapras",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/131.png",
       "type": [
         "Water",
         "Ice"
@@ -4080,6 +4203,7 @@ var imgPokemon ={
       "num": "132",
       "name": "Ditto",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/132.png",
       "type": [
         "Normal"
       ],
@@ -4100,6 +4224,7 @@ var imgPokemon ={
       "num": "133",
       "name": "Eevee",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/133.png",
       "type": [
         "Normal"
       ],
@@ -4138,6 +4263,7 @@ var imgPokemon ={
       "num": "134",
       "name": "Vaporeon",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/134.png",
       "type": [
         "Water"
       ],
@@ -4165,6 +4291,7 @@ var imgPokemon ={
       "num": "135",
       "name": "Jolteon",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/135.png",
       "type": [
         "Electric"
       ],
@@ -4191,6 +4318,7 @@ var imgPokemon ={
       "num": "136",
       "name": "Flareon",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/136.png",
       "type": [
         "Fire"
       ],
@@ -4219,6 +4347,7 @@ var imgPokemon ={
       "num": "137",
       "name": "Porygon",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/137.png",
       "type": [
         "Normal"
       ],
@@ -4239,6 +4368,7 @@ var imgPokemon ={
       "num": "138",
       "name": "Omanyte",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/138.png",
       "type": [
         "Rock",
         "Water"
@@ -4272,6 +4402,7 @@ var imgPokemon ={
       "num": "139",
       "name": "Omastar",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/139.png",
       "type": [
         "Rock",
         "Water"
@@ -4302,6 +4433,7 @@ var imgPokemon ={
       "num": "140",
       "name": "Kabuto",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/140.png",
       "type": [
         "Rock",
         "Water"
@@ -4336,6 +4468,7 @@ var imgPokemon ={
       "num": "141",
       "name": "Kabutops",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/141.png",
       "type": [
         "Rock",
         "Water"
@@ -4366,6 +4499,7 @@ var imgPokemon ={
       "num": "142",
       "name": "Aerodactyl",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/142.png",
       "type": [
         "Rock",
         "Flying"
@@ -4391,6 +4525,7 @@ var imgPokemon ={
       "num": "143",
       "name": "Snorlax",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/143.png",
       "type": [
         "Normal"
       ],
@@ -4411,6 +4546,7 @@ var imgPokemon ={
       "num": "144",
       "name": "Articuno",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/144.png",
       "type": [
         "Ice",
         "Flying"
@@ -4435,6 +4571,7 @@ var imgPokemon ={
       "num": "145",
       "name": "Zapdos",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/145.png",
       "type": [
         "Electric",
         "Flying"
@@ -4457,6 +4594,7 @@ var imgPokemon ={
       "num": "146",
       "name": "Moltres",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/146.png",
       "type": [
         "Fire",
         "Flying"
@@ -4480,6 +4618,7 @@ var imgPokemon ={
       "num": "147",
       "name": "Dratini",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/147.png",
       "type": [
         "Dragon"
       ],
@@ -4516,6 +4655,7 @@ var imgPokemon ={
       "num": "148",
       "name": "Dragonair",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/148.png",
       "type": [
         "Dragon"
       ],
@@ -4553,6 +4693,7 @@ var imgPokemon ={
       "num": "149",
       "name": "Dragonite",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/149.png",
       "type": [
         "Dragon",
         "Flying"
@@ -4587,6 +4728,7 @@ var imgPokemon ={
       "num": "150",
       "name": "Mewtwo",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/150.png",
       "type": [
         "Psychic"
       ],
@@ -4609,6 +4751,7 @@ var imgPokemon ={
       "num": "151",
       "name": "Mew",
       "img": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
+      "img2": "https://www.pokebip.com/pokedex/images/bw_front_m/151.png",
       "type": [
         "Psychic"
       ],

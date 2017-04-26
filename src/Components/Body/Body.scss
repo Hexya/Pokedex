@@ -5,39 +5,45 @@ font-family: 'Oswald', sans-serif;
 font-family: 'Roboto', sans-serif;
 font-family: 'Roboto Condensed', sans-serif;
 a*/
-.img1 {
-  .containGrid2{display: none;}
-.containGrid{
-  display: flex;
-  justify-content: center;
-  color: rgb(227, 227, 227);
-  background-color: rgb(236, 236, 236);
-  font-family: 'Roboto Condensed', sans-serif;
-  .gridCards2{display:none;}
-  .gridCards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    width: 70%;
-    background-color: rgba(255,255,255,0.8);
-   }
+.App {
+  .img2{display: none;}
+  .img1 {
+    .containGrid2{display: none;}
+    .containGrid{
+      display: flex;
+      justify-content: center;
+      color: rgb(227, 227, 227);
+      background-color: rgb(236, 236, 236);
+      font-family: 'Roboto Condensed', sans-serif;
+      .gridCards2{display:none;}
+      .gridCards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 70%;
+        background-color: rgba(255,255,255,0.8);
+      }
+    }
+  }
 }
-}
-.img2 {
-  .containGrid{display: none;}
-.containGrid2{
-  display: flex;
-  justify-content: center;
-  color: rgb(227, 227, 227);
-  background-color: rgb(236, 236, 236);
-  font-family: 'Roboto Condensed', sans-serif;
-  .gridCards{display:none;}
-  .gridCards2 {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    width: 70%;
-    background-color: rgba(255,255,255,0.8);
-   }
-}
+.theme2 {
+  .img1{display: none;}
+  .img2 {
+    .containGrid{display: none;}
+    .containGrid2{
+      display: flex;
+      justify-content: center;
+      color: rgb(227, 227, 227);
+      background-color: rgb(236, 236, 236);
+      font-family: 'Roboto Condensed', sans-serif;
+      .gridCards{display:none;}
+      .gridCards2 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        width: 70%;
+        background-color: rgba(255,255,255,0.8);
+      }
+    }
+  }
 }
