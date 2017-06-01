@@ -24,7 +24,7 @@ class Body extends Component {
           <div className="gridCards">
             {data.pokemonInfo.map((e, index) => { //map dans array pokemon // index pour definir key diff
               return (
-                <PokeCards img={e.img} name={e.name} type={e.type} num={e.num} id={e.id} key={index}/> // !!assign key diff pour les isoler et les exporter sous Poke
+                <PokeCards img={e.img} name={e.name} type={e.type} num={e.num} ev={e.next_evolution} id={e.id} key={index}/> // !!assign key diff pour les isoler et les exporter sous Poke
               )
             })}
           </div>
@@ -35,7 +35,7 @@ class Body extends Component {
           <div className="gridCards2">
             {data.pokemonInfo.map((e, index) => { //map dans array pokemon // index pour definir key diff
               return (
-                <PokeCards img={e.img2} name={e.name} type={e.type} num={e.num} id={e.id} key={index}/> // !!assign key diff pour les isoler et les exporter sous Poke
+                <PokeCards img={e.img2} name={e.name} type={e.type} num={e.num} ev={e.next_evolution} id={e.id} key={index}/> // !!assign key diff pour les isoler et les exporter sous Poke
               )
             })}
           </div>

@@ -1,0 +1,17 @@
+.containTGrid {
+  display: flex;
+  justify-content: center;
+  .gridTCards{
+    width: 70%;
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    .targetCards{
+      .pokeImgTarget{
+        height: 200px;
+        width: auto;
+      }
+    }
+  }
+}
