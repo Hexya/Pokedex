@@ -13,11 +13,11 @@ class PokeCards extends React.Component {
 
   render() {
     return (
-    <Link to="/pokeTarget" onclick="getAttribute(this)">
+    <Link to={{ pathname: '/pokeTarget/' + this.props.id }}>
       <div className="contCards">
         <p className="numberPok">N°{this.props.num}</p>
         <div className="contImg">
-          <img className="pokeImg" src={this.props.img}/>
+          <img className="pokeImg" src={this.props.img} alt="Pokemon"/>
         </div>
         <div className="pokeInf">
           <p className="namePok">{this.props.name}</p>

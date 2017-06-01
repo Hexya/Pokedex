@@ -1,4 +1,6 @@
 import React from "react";
+import data from './Data.js';
+
 import _ from 'lodash'; // npm i lodash -S => .map
 
 class PokeTargetCards extends React.Component {

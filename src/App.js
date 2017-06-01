@@ -21,9 +21,6 @@ class App extends Component {
         className : 'App'
       });
     }
-    setTimeout(function(){
-      this.changeImg(element)
-    },1000)
   }
 
 
