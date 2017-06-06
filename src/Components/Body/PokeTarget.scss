@@ -1,25 +1,77 @@
+/*a
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+a*/
 .containTGrid {
+  font-family: 'Roboto Condensed', sans-serif;
   display: flex;
   justify-content: center;
+  background-color: rgb(236, 236, 236);
   .gridTCards{
     width: 70%;
-    background-color: rgb(236, 236, 236);
+    background-color: white;
     justify-content: center;
     padding-bottom: 50px;
     .nextP {
       display: flex;
       justify-content: space-between;
       padding: 10px 15px 10px 15px;
+      a {
+        text-decoration: none;
+        color: black;
+      }
     }
-      .pokeDisp {
+    .pokeDispName {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      font-size: 1.7em;
+      color: #373737;
+      text-shadow: 1px 1px 1px grey;
+      font-family: 'Open Sans Condensed', sans-serif;
+    }
+    .pokeDispCont{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 30px 30px 0 0;
+      .pokeDispImg {
+        .pokeImgTarget{
+          background-color: rgb(236, 236, 236);
+          border-radius: 5px;
+          height: 400px;
+          width: auto;
+        }
+      }
+      .pokeStat{
         display: flex;
-        flex-direction: column;
-        align-items: center;
+        width: 304px;
+        border-left: solid 1px rgb(236, 236, 236);
+        padding-left: 10px;
+        .PoketType{
+          margin-top: -20px;
+        }
+        p {
+          padding: 30px 0 0 25px;
+          font-size: 1.1em;
+          font-family: 'Open Sans Condensed', sans-serif;
+          span {
+            font-size: 0.9em;
+            color: rgb(204, 22, 33);
+          }
+        }
       }
-      .pokeImgTarget{
-        height: 200px;
-        width: auto;
-      }
-
+    }
+  }
+  .pokeBot{
+    display: flex;
+    justify-content: center;
+    padding:40px 0 0 0;
+    img{
+    height: 20px;
+    opacity: 0.3;
+  }
   }
 }
