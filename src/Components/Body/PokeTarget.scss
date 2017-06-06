@@ -4,14 +4,22 @@
   .gridTCards{
     width: 70%;
     background-color: rgb(236, 236, 236);
-    display: flex;
     justify-content: center;
     padding-bottom: 50px;
-    .targetCards{
+    .nextP {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 15px 10px 15px;
+    }
+      .pokeDisp {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
       .pokeImgTarget{
         height: 200px;
         width: auto;
       }
-    }
+
   }
 }
